@@ -5,7 +5,7 @@ c = a+b
 Print(c)
 
 
-#subtraction
+#subtraction of two numbers
 a = 30
 b = 10
 c = a-b
